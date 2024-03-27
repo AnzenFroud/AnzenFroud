@@ -61,21 +61,9 @@
 
 <br/>  
 
-
+<!--
 <h2 align = "center"> Github Stats  </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=AnzenFroud&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
 
-<br/>  
-
-
-
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/> 
+-->
