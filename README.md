@@ -1,4 +1,7 @@
-### <div align="center">I'm Artyom, a junior frontend developer 👨‍💻 with some experience in data analytics</div>  
+<div>
+<img src = "https://github.com/AnzenFroud/AnzenFroud/blob/main/348fd50a7ecf60dbe406f00723ed52f4.gif" align="center" style="width:100%">
+</div> 
+<div align="center">I'm Artyom, a junior frontend developer 👨‍💻 with some experience in data analytics</div>  
   
 
 - 🔭 I’m currently thinking about implementing a possible pet-project  
