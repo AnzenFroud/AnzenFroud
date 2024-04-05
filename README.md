@@ -25,7 +25,7 @@
   </div >
   <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=25&pause=1000&color=03CDF7&center=true&vCenter=true&repeat=false&random=false&width=200&height=50&lines=my+skill+set)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=25&pause=1000&color=03CDF7&center=true&vCenter=true&repeat=false&random=false&width=210&height=50&lines=my+skills+set)](https://git.io/typing-svg)
   | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=15&pause=1000&color=03CDF7&center=true&vCenter=true&repeat=false&random=false&width=90&height=50&lines=Frontend)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=15&pause=1000&color=03CDF7&center=true&vCenter=true&repeat=false&random=false&width=90&height=50&lines=Backend)](https://git.io/typing-svg)  |
   |----------|---------|
   | [![React](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg)](https://reactjs.org/) | [![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg)](https://www.javascript.com/) |
