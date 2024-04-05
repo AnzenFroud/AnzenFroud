@@ -20,7 +20,7 @@
 
 <br/>  
 </div> 
-  <img src="https://github.com/AnzenFroud/AnzenFroud/blob/main/348fd50a7ecf60dbe406f00723ed52f4.gif" align="right" width="72%" height="700px">
+  <img src="https://github.com/AnzenFroud/AnzenFroud/blob/main/348fd50a7ecf60dbe406f00723ed52f4.gif" align="right" width="70%" height="700px">
 
   </div >
   <div align="center">
